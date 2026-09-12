@@ -209,5 +209,22 @@ The analysis 𝗿𝗲𝘃𝗲𝗮𝗹𝘀 𝗮 𝘀𝘁𝗮𝗿𝗸 𝗰𝗼𝗻
 ---
 ---
 𝗔𝗧-𝗥𝗜𝗦𝗞 𝗜𝗡𝗗𝗜𝗖𝗔𝗧𝗢𝗥𝗦
+
 <img width="1366" height="723" alt="image" src="https://github.com/user-attachments/assets/9bca21c8-3906-4eba-b6e2-76e9edfdcf53" />
 
+The relationship between feature usage, sentiment (NPS), and churn is the most critical driver of retention for CloudTask Pro:
+
+- The data reveals a critical adoption threshold at 50% feature usage:
+  - 𝗕𝗲𝗹𝗼𝘄 𝟱𝟬%: The average churn rate is staggering — ranging from 55.9% (for 40-50% usage) up to 100% (for those below 10% usage).
+  - 𝗔𝗯𝗼𝘃𝗲 𝟱𝟬%: The churn rate drops to 0%. This suggests that once a customer adopts more than half of the core features, they become fully "sticky" and realize the product's full value.
+
+- There is a direct correlation between usage and satisfaction:
+    - 𝗗𝗲𝘁𝗿𝗮𝗰𝘁𝗼𝗿𝘀 (𝟰𝟳𝟬 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿𝘀): Have an average usage of only 37.28%. Their high churn (66.6%) is not just about price; it’s about a lack of engagement with the product.
+    - 𝗣𝗿𝗼𝗺𝗼𝘁𝗲𝗿𝘀 (𝟲𝟭 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿𝘀): Reach an average usage of 54.90%. This small jump in usage (from 37% to 55%) is the difference between a high-risk customer and a loyal advocate.
+- While 350 customers have already been categorized as low-usage/at-risk, there are currently 132 active customers (those who have not yet churned) who are below the 50% usage threshold and are in the immediate "danger zone."
+
+<br>
+
+𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗺𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:
+- The high number of low-usage customers (350) suggests that 𝗖𝗹𝗼𝘂𝗱𝗧𝗮𝘀𝗸 𝗣𝗿𝗼'𝘀 𝗶𝗻𝗶𝘁𝗶𝗮𝗹 𝗼𝗻𝗯𝗼𝗮𝗿𝗱𝗶𝗻𝗴 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 𝗶𝘀 𝗳𝗮𝗶𝗹𝗶𝗻𝗴 𝘁𝗼 𝗺𝗼𝘃𝗲 𝘂𝘀𝗲𝗿𝘀 𝗽𝗮𝘀𝘁 𝘁𝗵𝗲 "𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗰𝘂𝗿𝘃𝗲" 𝗮𝗻𝗱 𝗶𝗻𝘁𝗼 𝘁𝗵𝗲 "𝘃𝗮𝗹𝘂𝗲 𝘇𝗼𝗻𝗲" (𝗮𝗯𝗼𝘃𝗲 𝟱𝟬% 𝘂𝘀𝗮𝗴𝗲).
+- With 470 detractors, 𝘁𝗵𝗲𝗿𝗲 𝗶𝘀 𝗮 𝗺𝗮𝘀𝘀𝗶𝘃𝗲 𝗿𝗶𝘀𝗸 𝗼𝗳 𝗻𝗲𝗴𝗮𝘁𝗶𝘃𝗲 𝘄𝗼𝗿𝗱-𝗼𝗳-𝗺𝗼𝘂𝘁𝗵. This doesn't just impact current retention; it makes future customer acquisition more expensive as potential leads encounter negative reviews.
