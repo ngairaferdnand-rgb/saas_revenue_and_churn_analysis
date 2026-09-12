@@ -228,3 +228,43 @@ The relationship between feature usage, sentiment (NPS), and churn is the most c
 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗺𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:
 - The high number of low-usage customers (350) suggests that 𝗖𝗹𝗼𝘂𝗱𝗧𝗮𝘀𝗸 𝗣𝗿𝗼'𝘀 𝗶𝗻𝗶𝘁𝗶𝗮𝗹 𝗼𝗻𝗯𝗼𝗮𝗿𝗱𝗶𝗻𝗴 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 𝗶𝘀 𝗳𝗮𝗶𝗹𝗶𝗻𝗴 𝘁𝗼 𝗺𝗼𝘃𝗲 𝘂𝘀𝗲𝗿𝘀 𝗽𝗮𝘀𝘁 𝘁𝗵𝗲 "𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗰𝘂𝗿𝘃𝗲" 𝗮𝗻𝗱 𝗶𝗻𝘁𝗼 𝘁𝗵𝗲 "𝘃𝗮𝗹𝘂𝗲 𝘇𝗼𝗻𝗲" (𝗮𝗯𝗼𝘃𝗲 𝟱𝟬% 𝘂𝘀𝗮𝗴𝗲).
 - With 470 detractors, 𝘁𝗵𝗲𝗿𝗲 𝗶𝘀 𝗮 𝗺𝗮𝘀𝘀𝗶𝘃𝗲 𝗿𝗶𝘀𝗸 𝗼𝗳 𝗻𝗲𝗴𝗮𝘁𝗶𝘃𝗲 𝘄𝗼𝗿𝗱-𝗼𝗳-𝗺𝗼𝘂𝘁𝗵. This doesn't just impact current retention; it makes future customer acquisition more expensive as potential leads encounter negative reviews.
+
+---
+---
+𝗥𝗘𝗩𝗘𝗡𝗨𝗘 𝗧𝗥𝗘𝗡𝗗𝗦
+
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/439e6fc1-a5ed-47ac-ae77-1e1f308b7220" />
+
+
+𝗠𝗥𝗥 𝗧𝗿𝗲𝗻𝗱:
+
+While CloudTask Pro shows strong peaks in mid-year revenue (July), the current MRR trend is 𝗰𝗵𝗮𝗿𝗮𝗰𝘁𝗲𝗿𝗶𝘇𝗲𝗱 𝗯𝘆 𝗵𝗶𝗴𝗵 𝘃𝗼𝗹𝗮𝘁𝗶𝗹𝗶𝘁𝘆. The company is 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗶𝗻 𝗮 𝗰𝘆𝗰𝗹𝗲 𝗼𝗳 𝗮𝗰𝗾𝘂𝗶𝘀𝗶𝘁𝗶𝗼𝗻-𝗹𝗲𝗱 𝗴𝗿𝗼𝘄𝘁𝗵 𝗳𝗼𝗹𝗹𝗼𝘄𝗲𝗱 𝗯𝘆 𝗰𝗵𝘂𝗿𝗻-𝗹𝗲𝗱 𝗰𝗼𝗻𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻. To achieve a smoother growth curve, CloudTask Pro must 𝘀𝗵𝗶𝗳𝘁 𝗶𝘁𝘀 𝗳𝗼𝗰𝘂𝘀 𝗳𝗿𝗼𝗺 𝗺𝗼𝗻𝘁𝗵𝗹𝘆 𝗮𝗰𝗾𝘂𝗶𝘀𝗶𝘁𝗶𝗼𝗻 𝘁𝗼 𝗮𝗻𝗻𝘂𝗮𝗹 𝗿𝗲𝘁𝗲𝗻𝘁𝗶𝗼𝗻, specifically targeting the Q4 December dip.
+- The dips in January, March, May, August, October, and December are 𝗰𝗮𝘂𝘀𝗲𝗱 𝗯𝘆 𝗰𝗵𝘂𝗿𝗻 𝗲𝘅𝗰𝗲𝗲𝗱𝗶𝗻𝗴 𝗻𝗲𝘄 𝘀𝗮𝗹𝗲𝘀. For example, the dip in December ($542 average) suggests that while new signups might slow down, existing customers are likely cancelling or downgrading their plans before the new fiscal year.
+- 𝗘𝘃𝗲𝗿𝘆 𝟮–𝟯 𝗺𝗼𝗻𝘁𝗵𝘀, the business sees a surge (likely from a sales push), followed by a "correction" where low-usage users (those below the 50% threshold) churn out.
+- 𝗝𝘂𝗹𝘆 ($𝟭,𝟭𝟮𝟴) 𝗶𝘀 𝘁𝗵𝗲 𝗵𝗶𝗴𝗵𝗲𝘀𝘁 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗺𝗼𝗻𝘁𝗵. This likely indicates a successful "mid-year" upsell campaign or the onboarding of several Enterprise-level clients simultaneously, which pulls the average upward.
+
+---
+---
+𝗡𝗥𝗥 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
+
+<img width="1365" height="720" alt="image" src="https://github.com/user-attachments/assets/df5c2902-cf06-4607-83d5-bea10e6f6c3d" />
+
+The NRR analysis reveals exactly what the MRR trend analysis is hiding: 𝗖𝗹𝗼𝘂𝗱𝗧𝗮𝘀𝗸 𝗣𝗿𝗼 𝗶𝘀 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗿𝘂𝗻𝗻𝗶𝗻𝗴 𝗮 "𝗹𝗲𝗮𝗸𝘆 𝗯𝘂𝗰𝗸𝗲𝘁" 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗺𝗼𝗱𝗲𝗹. While the MRR trend showed revenue increasing, we can now see that the growth is entirely dependent on aggressive new sales, which are barely staying ahead of massive internal losses.
+
+- 𝗧𝗵𝗲𝗿𝗲 𝘄𝗲𝗿𝗲 𝗺𝗮𝘀𝘀𝗶𝘃𝗲 𝗱𝗿𝗼𝗽𝘀 𝗶𝗻 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗶𝗻 𝗝𝘂𝗻𝗲 (−𝟯𝟯,𝟯𝟮𝟴) 𝗮𝗻𝗱 𝗦𝗲𝗽𝘁𝗲𝗺𝗯𝗲𝗿 (-𝟯𝟳,𝟱𝟰𝟳). In those months, the revenue lost from customers leaving (churn) or downgrading (contraction) was significantly higher than any upgrades or expansion from the current customer base.
+- In September, 𝘄𝗲 𝗵𝗮𝗱 𝗮 𝘀𝘂𝗿𝗴𝗲 𝗶𝗻 𝗻𝗲𝘄 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 (𝟭𝟲.𝟮𝟴%), 𝗯𝘂𝘁 𝘁𝗵𝗲 -$𝟯𝟳𝗸 𝗹𝗲𝗮𝗸 𝗳𝗿𝗼𝗺 𝗲𝘅𝗶𝘀𝘁𝗶𝗻𝗴 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿𝘀 𝗻𝗲𝗮𝗿𝗹𝘆 𝗻𝗲𝘂𝘁𝗿𝗮𝗹𝗶𝘇𝗲𝗱 𝘁𝗵𝗲 𝗲𝗻𝘁𝗶𝗿𝗲 𝘀𝗮𝗹𝗲𝘀 𝗲𝗳𝗳𝗼𝗿𝘁 𝗳𝗼𝗿 𝘁𝗵𝗮𝘁 𝗺𝗼𝗻𝘁𝗵. This suggests that the surges aren't signs of a healthy, growing market – they are "rescue missions" to keep the total MRR from collapsing.
+
+<br>
+
+𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗺𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:
+- CloudTask Pro is spending a lot of money (CAC) to acquire new customers 𝗷𝘂𝘀𝘁 𝘁𝗼 𝗿𝗲𝗽𝗹𝗮𝗰𝗲 𝘁𝗵𝗲 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗶𝘁'𝘀 𝗹𝗼𝘀𝗶𝗻𝗴 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝗲𝘅𝗶𝘀𝘁𝗶𝗻𝗴 𝗼𝗻𝗲𝘀. This is an expensive way to grow.
+- The massive drops in Net Existing point to one of two things:
+  - 𝗣𝗼𝗼𝗿 𝗼𝗻𝗯𝗼𝗮𝗿𝗱𝗶𝗻𝗴: Customers join during a surge month, realize the tool is too complex, and leave 3-4 months later.
+  - 𝗦𝗲𝗮𝘀𝗼𝗻𝗮𝗹 𝗯𝘂𝗱𝗴𝗲𝘁 𝗰𝘂𝘁𝘀: Customers are cleaning up their SaaS spend at the end of quarters (June and September are both quarter-ends).
+
+<br>
+
+𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻:
+- 𝗧𝗵𝗲 𝟵𝟬-𝗱𝗮𝘆 𝗿𝗲𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗶𝗻𝗶𝘁𝗶𝗮𝘁𝗶𝘃𝗲: Since we have massive leaks in June and September, 𝗖𝗹𝗼𝘂𝗱𝗧𝗮𝘀𝗸 𝗣𝗿𝗼 𝘀𝗵𝗼𝘂𝗹𝗱 𝘀𝘁𝗮𝗿𝘁 𝗮 𝘀𝘂𝗰𝗰𝗲𝘀𝘀 𝗰𝗵𝗲𝗰𝗸-𝗶𝗻 𝟯𝟬 𝗱𝗮𝘆𝘀 𝗯𝗲𝗳𝗼𝗿𝗲 𝘁𝗵𝗲𝘀𝗲 𝘁𝘄𝗼 𝗺𝗼𝗻𝘁𝗵𝘀. It should target customers with the lowest feature usage to prevent the cliff.
+- 𝗣𝗶𝘃𝗼𝘁 𝘁𝗼 𝗲𝘅𝗽𝗮𝗻𝘀𝗶𝗼𝗻: Instead of focusing purely on New Business, 𝗖𝗹𝗼𝘂𝗱𝗧𝗮𝘀𝗸 𝗣𝗿𝗼 𝘀𝗵𝗼𝘂𝗹𝗱 𝘀𝗲𝘁 𝗮 𝗞𝗣𝗜 𝗳𝗼𝗿 𝗘𝘅𝗽𝗮𝗻𝘀𝗶𝗼𝗻 𝗠𝗥𝗥. If it can get the existing customers to spend just 5% more each month, the drops in Net Existing will shrink, and the total MRR will skyrocket.
+- 𝗜𝗻𝘃𝗲𝘀𝘁𝗶𝗴𝗮𝘁𝗲 𝘁𝗵𝗲 "𝘄𝗵𝘆": CloudTask Pro should use the data to filter customers who churned in June and September. Was it a specific industry? Was it mostly users on the "Starter" plan?
