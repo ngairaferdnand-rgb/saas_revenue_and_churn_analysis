@@ -4,7 +4,7 @@
 CloudTask Pro has achieved a significant milestone, growing from 0 to 600 customers since 2022. 
 While revenue has been growing, **the board has raised concerns about a high churn rate**. In addition, this growth is currently sitting on a fragile foundation. **While top-line revenue shows an upward trend, a deep-dive analysis reveals a "leaky bucket" syndrome**, *where aggressive new customer acquisition is being offset by massive, systemic losses in the existing customer base.* Hence, the CFO wants to understand the monthly churn trends, which customer segments are most at risk, and what the company’s unit economics look like (MRR per customer, customer acquisition cost vs. lifetime value). 
 
----
+##
 
 **Key Findings**
 
@@ -27,7 +27,8 @@ While revenue has been growing, **the board has raised concerns about a high chu
 4️⃣ **Unit Economics:**
 - **Customer Lifetime Value (CLV):** While individual plans show varied profitability, the high churn rate significantly compresses the CLV.
 - **Acquisition vs. Retention:** The company is currently over-investing in high-cost acquisition (CAC) to replace lower-cost recurring revenue that is "leaking" out.
----
+
+##
 
 **Recommendations**
 - **Implement a 90-Day Retention Initiative:** We should launch proactive success check-ins 30 days before the "leak" months of June and September, focusing on users with <30% feature usage.
@@ -35,7 +36,8 @@ While revenue has been growing, **the board has raised concerns about a high chu
 - **Address the Support Bottleneck:** We should scale support capacity in line with marketing surges to prevent the frustration-led exodus seen in late Q3.
 - **Product Roadmap Alignment:** The company should prioritize the "Missing Features" identified by high-value churners to secure the "Professional" and "Enterprise" segments.
 
----
+##
+
 **Conclusion**
 
 CloudTask Pro is at a crossroads. To move from a high-churn startup to a mature, profitable SaaS entity, **management must transition from an acquisition-first strategy to a retention-first model.** Plugging the $37k monthly leaks is now more critical to valuation than the next sales surge.
