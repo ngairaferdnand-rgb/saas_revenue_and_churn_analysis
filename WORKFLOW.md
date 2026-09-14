@@ -29,5 +29,5 @@ The dataset includes customer ID, billing cycle, subscription plan, industry, si
   
 *   **Executive Summary and Reports:**
     *   [Executive Summary](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/EXECUTIVESUMMARY.md) — *Summary of the main findings and numbers, conclusion, and recommendations for the CFO's office.*
-    *    [Report](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/README.md) — *The background, target audience, and questions addressed by the analysis.*
-  
+    *    [Report](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/Report.pdf) — *The background, management task, executive summary, and questions addressed by the analysis.*
+    *   [Churn Analysis GitHub Report](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/MOTOR%20VEHICLE%20COLLISIONS%20ANALYSIS%20report.pdf)
