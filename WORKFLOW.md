@@ -30,5 +30,5 @@ The dataset includes customer ID, billing cycle, subscription plan, industry, si
 ## 
 **🗒️ Executive Summary and Reports:**
 *   [Executive Summary](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/EXECUTIVESUMMARY.md) — *Summary of the main findings and numbers, conclusion, and recommendations for the CFO's office.*
-*    [Report](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/Report.pdf) — *The background, management task, executive summary, and questions addressed by the analysis.*
+*    [Full CFO Report](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/Report.pdf) — *The background, management task, executive summary, and questions addressed by the analysis.*
 *   [Churn Analysis GitHub Report](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/README.md)
