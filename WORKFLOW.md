@@ -11,7 +11,7 @@ The dataset includes customer ID, billing cycle, subscription plan, industry, si
 ##
 
 **🚗 Data Cleaning and Imputation Pipeline:**
- *   [SQL Data Cleaning Script](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/EXECUTIVESUMMARY.md) — *The complete automated data pipeline used for checking data structure, cleaning empty strings, modifying column types, creating a new column with descriptive labels like "Small," "Mid-sized," or "Enterprise"; checking if the data is truncated; converting date columns to DATE type; Checking for NULL and MISSING values; Finding "Hidden" Missing Values (Zeros); standardizing the dataset.*
+ *   [SQL Data Cleaning Script](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/SaaS%20Revenue%20%26%20Churn%20Analysis.sql) — *The complete automated data pipeline used for checking data structure, cleaning empty strings, modifying column types, creating a new column with descriptive labels like "Small," "Mid-sized," or "Enterprise"; checking if the data is truncated; converting date columns to DATE type; Checking for NULL and MISSING values; Finding "Hidden" Missing Values (Zeros); standardizing the dataset.*
 
 ##
 
