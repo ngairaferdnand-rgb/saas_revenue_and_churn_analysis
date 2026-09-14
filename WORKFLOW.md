@@ -24,10 +24,11 @@ The dataset includes customer ID, billing cycle, subscription plan, industry, si
 		- **Identifying the Ideal Customer Profile (ICP):** This final EDA step identifies the segment with the lowest churn and highest revenue.
 
 ## 
-💻 Data Analysis
+**💻 Data Analysis**
 *   [SQL](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/SaaS%20Revenue%20%26%20Churn%20Analysis%20-%20Denormalized%20Dataset.sql) — *The repository of structured queries used to calculate churn rate percentage, total  number of churned customers, carry out Year-over-Year (YoY) analysis, impact of billing cycle on retention, and so on. Using SELECT statements, JOINS, GROUP BY & ORDER BY functions, WHERE filter, Common Table Expression (CTE), etc.*
-  
-*   **Executive Summary and Reports:**
-    *   [Executive Summary](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/EXECUTIVESUMMARY.md) — *Summary of the main findings and numbers, conclusion, and recommendations for the CFO's office.*
-    *    [Report](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/Report.pdf) — *The background, management task, executive summary, and questions addressed by the analysis.*
-    *   [Churn Analysis GitHub Report](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/README.md)
+
+## 
+**🗒️ Executive Summary and Reports:**
+*   [Executive Summary](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/EXECUTIVESUMMARY.md) — *Summary of the main findings and numbers, conclusion, and recommendations for the CFO's office.*
+*    [Report](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/Report.pdf) — *The background, management task, executive summary, and questions addressed by the analysis.*
+*   [Churn Analysis GitHub Report](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/README.md)
