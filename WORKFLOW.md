@@ -16,7 +16,7 @@ The dataset includes customer ID, billing cycle, subscription plan, industry, si
 ##
 
 **📊 Exploratory Data Analysis (EDA):**  
- *   [SQL EDA Script](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/EXECUTIVESUMMARY.md) — *Repository of structured queries used to perform EDA, that is,  to identify patterns in the revenue, churn, and customer behavior:*  
+ *   [SQL EDA Script](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/SaaS%20Revenue%20%26%20Churn%20Analysis%20-%20Denormalized%20Dataset.sql) — *Repository of structured queries used to perform EDA, that is,  to identify patterns in the revenue, churn, and customer behavior:*  
 		- **High-Level Customer Distribution:** This helps us understand where the business stands. Which plans or regions are the most popular?
 		- **Revenue Deep Dive (MRR and ARPU):** Average Revenue Per User (ARPU) helps  identify which segments are the "High Value" segments. Monthly Recurring Revenue (MRR) measures the predictable and recurring revenue components of the subscription business.
 		- **Churn Drivers Analysis:** To find the "Why" behind the "Who."
