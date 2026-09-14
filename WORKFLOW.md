@@ -28,7 +28,6 @@ The dataset includes customer ID, billing cycle, subscription plan, industry, si
 *   [SQL](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/collision_analysis.sql) — *The repository of structured queries used to calculate churn rate percentage, total  number of churned customers, carry out Year-over-Year (YoY) analysis, impact of billing cycle on retentionand so on. Using SELECT statements, JOINS, GROUP BY & ORDER BY functions, WHERE filter, Common Table Expression (CTE), etc.*
   
 *   **Executive Summary and Reports:**
-    *   [Executive Summary](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/EXECUTIVESUMMARY.md) — *Summary of the main findings and numbers, conclusion, and recommendations for the CFO's office.*
+    *   [Executive Summary](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/EXECUTIVESUMMARY.md) — *Summary of the main findings and numbers, conclusion, and recommendations for the CFO's office.*
     *    [Report](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/README.md) — *The background, target audience, and questions addressed by the analysis.*
-    *   [Motor Vehicle Collisions Analysis Full Report](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/MOTOR%20VEHICLE%20COLLISIONS%20ANALYSIS%20report.pdf)
-
+  
