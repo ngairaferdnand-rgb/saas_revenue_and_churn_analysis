@@ -25,7 +25,7 @@ The dataset includes customer ID, billing cycle, subscription plan, industry, si
 
 ## 
 💻 Data Analysis
-*   [SQL](https://github.com/Madivoli/Motor-Vehicle-Collisions-Analysis/blob/main/collision_analysis.sql) — *The repository of structured queries used to calculate churn rate percentage, total  number of churned customers, carry out Year-over-Year (YoY) analysis, impact of billing cycle on retentionand so on. Using SELECT statements, JOINS, GROUP BY & ORDER BY functions, WHERE filter, Common Table Expression (CTE), etc.*
+*   [SQL](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/SaaS%20Revenue%20%26%20Churn%20Analysis%20-%20Denormalized%20Dataset.sql) — *The repository of structured queries used to calculate churn rate percentage, total  number of churned customers, carry out Year-over-Year (YoY) analysis, impact of billing cycle on retentionand so on. Using SELECT statements, JOINS, GROUP BY & ORDER BY functions, WHERE filter, Common Table Expression (CTE), etc.*
   
 *   **Executive Summary and Reports:**
     *   [Executive Summary](https://github.com/ngairaferdnand-rgb/saas_revenue_and_churn_analysis/blob/main/EXECUTIVESUMMARY.md) — *Summary of the main findings and numbers, conclusion, and recommendations for the CFO's office.*
